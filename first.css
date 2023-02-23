@@ -1,0 +1,58 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.mainContainer{
+    width: 80%;
+    height: 20vh;
+    display: flex;
+    align-items: center;
+    
+    
+}
+.mainContainer div{
+    position: relative;
+    left:60%;
+    width: 55%;
+    height:20vh;
+    top:30%
+}
+h1{
+    color: white;
+}
+p{
+   padding: 5px;
+   margin: 5px;
+   color: white;
+}
+body{
+    background-color: black;
+}
+
+.dia{
+    position: relative;
+    left: 28%;
+    padding: 10px;
+}
+.dia1{
+    position: relative;
+    left: 28%;
+}
+.head{
+    width: 2%;
+    height: 90%;
+}
+.icon{
+       width: 40px;
+       color: beige;
+       filter: invert(100%);
+       
+}
+.ss{
+    height: 30px;
+    width: 50px;
+    margin: 50px;
+    position: absolute;
+    top: -2rem;
+}

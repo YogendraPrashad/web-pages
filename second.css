@@ -1,0 +1,82 @@
+*{
+    padding: 1px;
+}
+.navbar{
+    background-color: #314d33;
+    width: 100%;
+}
+
+.icon{
+    padding-left: 5rem;
+}    
+.active{
+    color: white;
+}
+div ul li{
+    display: inline-block;
+    padding: 40px;
+    font-size: x-large;
+    color: rgb(17, 44, 17);
+    font-weight: bolder;
+}
+.text{
+    color: #eeeeeee0;
+    font-size: xx-large;
+    margin-right: 16%;
+    font-weight: bolder;
+}
+#image{
+    background-color: rgba(126, 126, 126, 0.336);
+    
+}
+.image{
+    width: 50%;
+    border: 1px solid white;
+    margin-left: 10rem;
+}
+.row{
+    background-color: rgba(221, 221, 221, 0.747);
+}
+.card-title{
+    text-align: center;
+    color: rgb(17, 44, 17);
+    font-size: 30px;
+
+}
+.card-text{
+    color: rgb(0, 0, 0);
+    padding: 10px;
+    text-align: center;
+
+}
+.vl{
+    border-left: 1px solid gray;
+    height: 150px;
+    margin-left: 20px
+}
+.this{
+    width: 30%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border: 7px solid whitesmoke;
+    box-shadow: 2px 4px 3px 4px rgb(136, 136, 136);
+}
+.more{
+    color: rgb(17, 44, 17);
+    text-align: center;
+    margin-top: 2%;
+}
+.content{
+    color: rgb(17, 44, 17);
+    text-align: center;
+
+}
+.read{
+    background-color:gray;
+    border: 0;
+    margin-left: 25%;
+    color: white;
+    padding: 5px;
+}
